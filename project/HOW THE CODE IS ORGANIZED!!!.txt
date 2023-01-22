@@ -1,0 +1,9 @@
+Sorry for yelling, had to get your attention :)
+
+Laconic means that the commenting is limited for ease of printing the code, read the verbose mode for longer explanations of the coding process for the Pan-Tompkins algorithm.
+
+The iterative processes use for loops, were as the transfer function processes use direct symbolic logic.
+
+PlotRange is a function I use to isolate smaller ranges of data and print them with included axis labels and automatically save the resulting figure so that I don't forget.
+
+LoadData is the included code to open and normalize the heartmonitor data.
